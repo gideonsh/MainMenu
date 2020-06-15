@@ -4,7 +4,8 @@ using System.Text;
 
 namespace Ex04.Menus.Interfaces
 {
-    class Menu
+    public interface IExecute
     {
+        void Execute();
     }
 }
