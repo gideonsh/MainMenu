@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace Ex04.Menus.Delegates
+namespace Ex04.Menus.Interfaces
 {
-    class Menu
+    class MainMenu
     {
         static void Main(string[] args)
         {
